@@ -1,6 +1,5 @@
 # INTRODUCTION:
-This OOP project, written in Java programming language, aims to simulate the growth of plants using a complex engineering model. The project's goal is to understand the various factors that influence plant growth and develop a simulation model to mimic the same. The project does not have an absolute solution as the growth of plants is a complex phenomenon that is influenced by many variables.
-
+This OOP project, written in Java programming language, aims to simulate the growth of plants using a complex engineering model. The project's goal is to understand the various factors that influence plant growth and develop a simulation model.
 # Flowchart:
 <img width="535" alt="image" src="https://github.com/user-attachments/assets/1a83fffd-2f84-418f-86c0-31cad9b848b9" />
 
@@ -54,10 +53,6 @@ At the end, we have made report class whose object is made in simulation class a
 <img width="356" alt="image" src="https://github.com/user-attachments/assets/0429a165-d39a-47ee-aa59-6a923a8cded8" />
 <img width="425" alt="image" src="https://github.com/user-attachments/assets/108f7989-7d1c-446d-958b-d01ff432f976" />
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/f58a572c-c6e0-4dff-8880-b335dac05216" />
-
-## Limitations:
-
-The simulation model is not an exact representation of reality and may not account for all the variables that influence plant growth. The model's results are based on the assumptions and data used in its development.
 
 Conclusion:
 In this project we have made six classes with their own functionality and classes are related to each other through composition. Our program takes input values in file through getters and after calculations write them in an output file.
